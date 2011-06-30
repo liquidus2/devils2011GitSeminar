@@ -4,3 +4,4 @@ using namespace std;
 #define ARG_SIZE 256
 
 int testCmd(int argc, char (*argv)[ARG_SIZE]);
+int cmd2(int argc, char (*argv)[ARG_SIZE]);
